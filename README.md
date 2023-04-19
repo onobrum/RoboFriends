@@ -1,1 +1,2 @@
-This is my first little project
+This is my first little project with Web responsive design
+
