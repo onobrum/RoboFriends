@@ -1,1 +1,1 @@
-Robofriends is a project made with the purpose of training my skills in responsive web design, javascript, API call and React. It was made by myself coding however the original design belongs to 'Zero To Mastery' academy.
+
